@@ -1,5 +1,7 @@
+// time set
 const time = document.getElementById("times");
 
+// btn works
 const start = document.getElementById("start");
 const stop = document.getElementById("stop");
 const reset = document.getElementById("reset");
