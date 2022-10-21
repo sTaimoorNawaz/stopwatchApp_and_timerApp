@@ -1,0 +1,4 @@
+1) create an array of objects of student, then render data
+on table and integrate the functionality of searching by roll number
+2) develop stop watch app
+3) develop timer(reverse) app 
